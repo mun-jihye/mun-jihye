@@ -11,8 +11,8 @@
   </a>
 </div>
 <div>
-  <a href="https://drive.google.com/file/d/1y9cAFSiwy9lpEp7l3D-wz0w_esDVVBok/view?usp=sharing" target="_blank">
-    <img align="center" src="https://drive.google.com/file/d/195yPy3Vx4Bl6sjTsGXR9BMJdRvhOMl9W/view?usp=sharing" width="32" />
+  <a href="https://drive.google.com/file/d/195yPy3Vx4Bl6sjTsGXR9BMJdRvhOMl9W/view?usp=sharing" target="_blank">
+    <img align="center" src="https://github.com/chasj0326/chasj0326/assets/62418379/1aaea7a3-7e92-4879-827a-9f2022a97789" width="32" />
     PDF (Google Drive)
   </a>
 </div>
