@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="https://capsule-render.vercel.app/api?type=waving&color=9DC182&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=150&section=header" />
 
 <!--
 **mun-jihye/mun-jihye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=9DC182&height=150&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=150&section=footer" />
