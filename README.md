@@ -11,7 +11,7 @@
   </a>
 </div>
 <div>
-  <a href="https://drive.google.com/drive/folders/14trC-0rseCtpyD_XIoUyeMSXblSvx9F6" target="_blank">
+  <a href="https://drive.google.com/file/d/1y9cAFSiwy9lpEp7l3D-wz0w_esDVVBok/view?usp=sharing" target="_blank">
     <img align="center" src="https://github.com/chasj0326/chasj0326/assets/62418379/1aaea7a3-7e92-4879-827a-9f2022a97789" width="32" />
     PDF (Google Drive)
   </a>
@@ -37,15 +37,15 @@ Figma | Github | Notion
 ### `Archives`
 <div>
   <img align="center" src="https://github.com/chasj0326/chasj0326/assets/62418379/312afc10-047c-4a4b-8298-9b9d84958d88" width="30" />
-  <b>Moabam</b> : 그룹 루틴 서비스 ( <a href="https://github.com/team-moabam/moabam-FE">repo</a> / <a href="https://www.moabam.com">service</a> )
+  <b>Rolling</b> : 롤링페이퍼 웹사이트 ( <a href="https://github.com/mun-jihye/rolling-paper-app?tab=readme-ov-file">repo</a> / <a href="https://rolling-paper-24.netlify.app/">service</a> )
 </div>
 <div>
   <img align="center" src="https://github.com/chasj0326/chasj0326/assets/62418379/6a002abb-bee8-41ee-948f-0d01b2049520" width="30" />
-  <a><b>Angola</b> : 밸런스 게임 서비스 ( <a href="https://github.com/prgrms-fe-devcourse/FEDC4_Angola_NaYoung">repo</a> / <a href="https://fedc4-angola.vercel.app/">service</a> )
+  <a><b>The julge</b> : 구인구직 웹서비스 ( <a href="https://github.com/TheJulge/Frontend?tab=readme-ov-file">repo</a> / <a href="https://thejulge-17.vercel.app/">service</a> )
 </div>
 <div>
   <img align="center" src="https://github.com/chasj0326/chasj0326/assets/62418379/91b30548-fcaa-4c3c-b641-93baed47c22d" width="30" />
-  <a><b>Notion</b> : 노션 클론 에디터 ( <a href="https://github.com/chasj0326/vanilla_playground">repo</a> / <a href="https://vanilla-playground-five.vercel.app/home">service</a> )
+  <a><b>동그리나</b> : 반려동물 성장기록 웹서비스 ( <a href="https://github.com/Donggrina/Frontend">repo</a> )
 </div>
 <br/>
 
